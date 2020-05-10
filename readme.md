@@ -1,7 +1,7 @@
 ![Logo](DATA/Logo.png)
 # OneClass
 
-Oneclass is a small project I had when I was young. This is a micro social network dedicated for one student class. The code is ugly, but sometime code just has a sentimental value.
+Oneclass is a small project I had when I was young. This is a micro social network dedicated for one student class. The code is ugly, but sometimes code just has a sentimental value.
 
 ## To run it
 
