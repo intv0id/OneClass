@@ -1,4 +1,4 @@
-![Logo](DATA/logo.png)
+![Logo](DATA/Logo.png)
 # OneClass
 
 Oneclass is a small project I had when I was young. This is a micro social network dedicated for one student class. The code is ugly, but sometime code just has a sentimental value.
